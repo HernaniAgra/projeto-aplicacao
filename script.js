@@ -1,5 +1,3 @@
-let idade = 20
-
 function verificarIdade(idade){
     if( idade <= 18 ){
         console.log('Você é de menor.')
